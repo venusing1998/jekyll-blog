@@ -1,7 +1,6 @@
 _site
 .sass-cache
 .jekyll-metadata
-vendor/
 
 *.gem
 *.rbc
